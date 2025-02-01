@@ -17,7 +17,7 @@
 ## Project Structure
 
 ```plaintext
-my_rate_limiter/
+rate_limiter/
 ├── rate_limiter/
 │   ├── __init__.py         # Exposes the public API for the rate limiter.
 │   ├── rate_limiter.py     # Contains the rate_limit decorator implementation.
