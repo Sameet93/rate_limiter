@@ -115,7 +115,7 @@ if __name__ == "__main__":
 Install the package via pip:
 
 ```bash
-pip install my_rate_limiter
+pip install rate_limiter
 ```
 
 ---
