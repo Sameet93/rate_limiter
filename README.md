@@ -27,6 +27,8 @@ rate_limiter/
 │   └── flask_example.py    # Example integration with Flask.
 ├── setup.py                # Packaging and installation configuration.
 └── README.md               # Project documentation.
+```
+---
 
 ## Quick Start
 
@@ -60,7 +62,7 @@ async def my_fastapi_endpoint(request: Request):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
-
+```
 ### Flask Example
 
 ```python
